@@ -39,4 +39,5 @@ Hasil yang diberikan **BUKAN JAMINAN 100%** keamanan. Selalu gunakan pertimbanga
 Jalankan skrip dari terminal dengan memberikan URL sebagai argumen:
 
 ```bash
-python scam_scanner.py [https://www.google.com]
+python 'Simple Scam Scan.py' [https://www.google.com]
+
