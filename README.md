@@ -26,8 +26,12 @@ Hasil yang diberikan **BUKAN JAMINAN 100%** keamanan. Selalu gunakan pertimbanga
     ```bash
     pip install -r requirements.txt
     ```
+    Install manual :
+    requests
+    python-whois
+    python-tld
 
-3.  **Konfigurasi API Key:**
+4.  **Konfigurasi API Key:**
     Buka file `scam_scanner.py` dan ganti `YOUR_GOOGLE_API_KEY` pada baris yang sesuai dengan kunci API Anda.
 
 ## Cara Penggunaan
@@ -35,4 +39,4 @@ Hasil yang diberikan **BUKAN JAMINAN 100%** keamanan. Selalu gunakan pertimbanga
 Jalankan skrip dari terminal dengan memberikan URL sebagai argumen:
 
 ```bash
-python scam_scanner.py [https://www.google.com](https://www.google.com)
+python scam_scanner.py [https://www.google.com]
