@@ -18,8 +18,8 @@ Hasil yang diberikan **BUKAN JAMINAN 100%** keamanan. Selalu gunakan pertimbanga
 
 1.  **Kloning Repositori:**
     ```bash
-    git clone [https://github.com/USERNAME_ANDA/NAMA_REPOSITORI_ANDA.git](https://github.com/USERNAME_ANDA/NAMA_REPOSITORI_ANDA.git)
-    cd NAMA_REPOSITORI_ANDA
+    git clone https://github.com/Voidwalker28/Simple-Scan-Scam.git
+    cd Simple-Scan-Scam
     ```
 
 2.  **Instal Dependensi:**
