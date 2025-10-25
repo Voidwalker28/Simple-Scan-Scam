@@ -29,7 +29,7 @@ Hasil yang diberikan **BUKAN JAMINAN 100%** keamanan. Selalu gunakan pertimbanga
     Install manual :
     requests
     python-whois
-    python-tld
+    tld
 
 4.  **Konfigurasi API Key:**
     Buka file `scam_scanner.py` dan ganti `YOUR_GOOGLE_API_KEY` pada baris yang sesuai dengan kunci API Anda.
